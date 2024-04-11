@@ -32,3 +32,4 @@ Para la solución se usó una base de datos en memoria (H2). La configuracion de
 está en application.properties.
 Al arrancar el programa la Base de Datos se configura automaticamente y puedes ingresar a la url http://localhost:8080/h2-console (pass: password) para revisar el contenido.
 
+Tambien se agrega OpenApi como documentacion y UI la cual puede acceder desde http://localhost:8080/swagger-ui/index.html una vez que arranque el proyecto.
