@@ -2,12 +2,12 @@
 Prueba técnica para postular a Backend developer, Sentra
 
 ## Requisitos
-java 17+
-gradle
+- java 17+
+- gradle
 
 ## Pasos para ejecutar el proyecto
-git clone https://github.com/xergiox/prueba-tec-sentra.git
-gradle build bootRun
+- git clone https://github.com/xergiox/prueba-tec-sentra.git
+- gradle build bootRun
 
 El endpoint se levantará en http://localhost:8080/register
 
